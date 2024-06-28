@@ -1,0 +1,16 @@
+.parent{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+
+}
+
+.dom{
+    text-transform: uppercase;
+    color: red;
+}
+
+.pompa{
+    text-transform: uppercase;
+    color: gray;
+}
